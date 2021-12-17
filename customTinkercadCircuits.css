@@ -1,0 +1,61 @@
+#main > div > div{
+       -webkit-text-size-adjust: 100%;
+    --global-transition: all 0.2s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+    --color-950: #202225;
+    font-family: ArtifaktElement, Roboto, "ＭＳ Ｐゴシック", "MS PGothic", Osaka, 宋体, SimSun, 华文细黑, STXihei, 新細明體, PMingLiU, 蘋果儷細宋, "Apple LiSung Light", sans-serif;
+    font-size: 15px;
+    color: rgb(52, 73, 94);
+    cursor: pointer !important;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    min-height: 250px;
+    min-width: 500px; 
+}
+#main > div > div > div.editor.js-root_container{
+        -webkit-text-size-adjust: 100%;
+    --global-transition: all 0.2s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+    --color-950: #202225;
+    font-family: ArtifaktElement, Roboto, "ＭＳ Ｐゴシック", "MS PGothic", Osaka, 宋体, SimSun, 华文细黑, STXihei, 新細明體, PMingLiU, 蘋果儷細宋, "Apple LiSung Light", sans-serif;
+    font-size: 15px;
+    color: rgb(52, 73, 94);
+    cursor: pointer !important;
+    position: absolute;
+    top: 30px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+#main > div > div > div.editor.js-root_container > div.js-tpl-target__menu_sub > div.sitemenu.sitemenu--editor.sitemenu--editor_submenu.breadboard{
+        -webkit-text-size-adjust: 100%;
+    font-family: ArtifaktElement, Roboto, "ＭＳ Ｐゴシック", "MS PGothic", Osaka, 宋体, SimSun, 华文细黑, STXihei, 新細明體, PMingLiU, 蘋果儷細宋, "Apple LiSung Light", sans-serif;
+    font-size: 15px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: -58px;
+    min-width: 300px;
+    color: #34495e;
+    height: 3pc;
+    line-height: 3pc;
+    background: #ffffff;
+    background-color: #f4f5f6;
+    border-bottom: 1px solid #dfe3e8;
+    box-shadow: none;
+    z-index: 2;
+}
+#main > div > div > div.editor.js-root_container > div.editor__content.js-editor__content{
+        -webkit-text-size-adjust: 100%;
+    font-family: ArtifaktElement, Roboto, "ＭＳ Ｐゴシック", "MS PGothic", Osaka, 宋体, SimSun, 华文细黑, STXihei, 新細明體, PMingLiU, 蘋果儷細宋, "Apple LiSung Light", sans-serif;
+    font-size: 15px;
+    color: rgb(52, 73, 94);
+    position: absolute;
+    top: -10px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
